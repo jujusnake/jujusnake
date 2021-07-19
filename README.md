@@ -1,21 +1,25 @@
-#**Juju is a pet snake of Mama Odie 🐍
-**
+**Juju is a pet snake of Mama Odie 🐍**
 
-###I am a human living in Seoul, Korea.
-🏠 homebody
-📓 obsessive archiver
-🤬 professional resentment expression artist
-🎃 jack of all trades master of none
+**And I am a human 🧑 living in Seoul, Korea.**  
 
-###hobbies that tried but failed
-- bass guitar
-- sewing machine
-- 3d modeling
+🏠 homebody  
+📓 obsessive archiver  
+🤬 professional resentment expression artist  
+🎃 jack of all trades master of none  
+
+<br />
+
+**hobbies that tried but failed**  
+🎸 bass guitar  
+🧵 sewing machine  
+👓 3d modeling  
+
+<br />
 
 <a href="https://blog.naver.com/southpoley">
     <img 
-        src="http://img.shields.io/badge/-blog-03C75A?style=flat&logo=Naver&link=https://blog.naver.com/southpoley"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        src="http://img.shields.io/badge/-blog-000000?style=flat&logo=Naver&link=https://blog.naver.com/southpoley"
+        style="height : auto; margin-left : 10px; margin-right : 10px; margin-top : 20px"/>
 </a>
 
 
