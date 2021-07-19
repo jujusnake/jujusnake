@@ -9,7 +9,7 @@
 
 <br />
 
-**hobbies that tried but failed**  
+**hobbies that I tried but failed**  
 🎸 bass guitar  
 🧵 sewing machine  
 👓 3d modeling  
