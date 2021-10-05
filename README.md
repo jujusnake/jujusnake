@@ -22,7 +22,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px; margin-top : 20px;"/>
 </a>
 
-<a href="https://www.instagram.com/southpole_pbf//">
+<a href="https://www.instagram.com/southpole_pbf/">
     <img
          src="https://img.shields.io/badge/-instagram-E4405F?style=flat?&logoColor=ffffff&logo=instagram&link=https://www.instagram.com/southpole_pbf/" 
          style="height : auto; margin-left : 10px; margin-right : 10px; margin-top : 20px;"/>
