@@ -18,7 +18,7 @@
 
 <a href="https://velog.io/@jujusnake">
     <img 
-        src="https://img.shields.io/badge/-velog-velog?style=flat?color=60C69A"
+        src="https://img.shields.io/badge/-velog-velog?style=flat?color=93D0B6"
         style="height : auto; margin-left : 10px; margin-right : 10px; margin-top : 20px;"/>
 </a>
 
